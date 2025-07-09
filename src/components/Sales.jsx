@@ -1,4 +1,3 @@
-import React from "react";
 import Title from "./utils/Title";
 import Items from "./utils/Items";
 
